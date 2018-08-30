@@ -1,4 +1,3 @@
-#include <libmemcached/visibility.h>
 #include <libmemcached/memcached.h>
 
 #include <R.h>
